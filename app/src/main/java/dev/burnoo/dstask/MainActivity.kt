@@ -1,10 +1,10 @@
-package dev.burnoo.template
+package dev.burnoo.dstask
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import dev.burnoo.template.composable.AppRouter
-import dev.burnoo.template.ui.theme.AppTheme
+import dev.burnoo.dstask.composable.AppRouter
+import dev.burnoo.dstask.ui.theme.AppTheme
 
 class MainActivity : ComponentActivity() {
 

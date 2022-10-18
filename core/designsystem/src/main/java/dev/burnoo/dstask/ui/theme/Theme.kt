@@ -1,4 +1,4 @@
-package dev.burnoo.template.ui.theme
+package dev.burnoo.dstask.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

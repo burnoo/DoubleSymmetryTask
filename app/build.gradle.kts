@@ -10,7 +10,7 @@ android {
         minSdk = 24
         targetSdk = 33
 
-        applicationId = "dev.burnoo.template"
+        applicationId = "dev.burnoo.dstask"
         versionCode = 1
         versionName = "1.0"
 
