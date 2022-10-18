@@ -10,6 +10,6 @@ dependencyResolutionManagement {
 
 include(":app")
 
-include(":feature:home")
+include(":feature:feed")
 
 include(":core:designsystem")

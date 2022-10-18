@@ -1,4 +1,4 @@
-package dev.burnoo.dstask.feature.home
+package dev.burnoo.dstask.feature.feed
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
