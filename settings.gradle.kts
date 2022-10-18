@@ -12,5 +12,6 @@ include(":app")
 
 include(":feature:feed")
 
+include(":core:data")
 include(":core:designsystem")
 include(":core:model")
